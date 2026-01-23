@@ -135,7 +135,4 @@ The program includes validation for:
 - Low quantity alerts
 
 ## Author
-[Your Name]
-
-## License
-This project is for educational purposes as part of IS 413 coursework.
+Blake Baird
